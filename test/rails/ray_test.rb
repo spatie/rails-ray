@@ -5,7 +5,7 @@ class Rails::RayTest < ActiveSupport::TestCase
     assert Rails::Ray::VERSION
   end
 
-  test "includes ray" do
-    assert respond_to?(:ray)
+  test "it includes Ray" do
+    assert defined?(::Ray)
   end
 end

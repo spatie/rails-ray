@@ -120,7 +120,7 @@ GEM
       rake (>= 0.8.7)
       thor (~> 1.0)
     rake (13.0.3)
-    ruby-ray (0.4.0)
+    ruby-ray (0.4.1)
       activesupport (>= 4.2)
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)

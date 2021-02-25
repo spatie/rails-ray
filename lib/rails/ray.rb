@@ -1,6 +1,6 @@
 require "rails/ray/version"
 require "rails/ray/railtie"
-require "ruby-ray"
+require "ray"
 
 module Rails
   module Ray
